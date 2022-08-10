@@ -1,0 +1,19 @@
+{
+  "name": "rastreabilidade",
+  "version": "1.0.0",
+  "description": "interface rastreabilidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rastreabilidade",
+    "node",
+    "systemhaus"
+  ],
+  "author": "alexandre davi rocha fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
